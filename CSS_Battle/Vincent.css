@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  article{
+	display:flex;
+  }
+  div{
+    margin:0px 10px 20px;
+  }
+  #skin{
+    background:#F5D6B4;
+  }
+  #orange{
+    background:#F09462;
+  }
+  body
+  {
+    background:#5C434C;
+  }
+  div {
+    border-radius: 100px 1px 0px 0px;
+    width: 85px;
+    height: 80px;
+  }
+section{
+    /* To make the Content fit in the center */
+    /* border: solid black; */
+    width: fit-content;
+    margin: 100px auto;
+}
